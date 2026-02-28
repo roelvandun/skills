@@ -1,5 +1,5 @@
 ---
-name: netflix-dgs
+name: java-graphql-dgs
 description: >
   Guide for creating GraphQL services with Spring Boot using the Netflix DGS framework.
   Use this skill when:
