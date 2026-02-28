@@ -10,9 +10,9 @@ description: >
   (5) working with GraphQL schemas in src/main/resources/schema/,
   (6) configuring federation, security, file uploads, pagination, or instrumentation in DGS.
 license: MIT
-compatibility: Requires Spring Boot 3 and Java 17. Uses Maven.
+compatibility: Requires Spring Boot and Java. Uses Maven.
 metadata:
-  author: jumbo-loyalty
+  author: @roelvandun
   version: "1.0.0"
 allowed-tools: Read Write Edit Glob Grep
 ---
