@@ -11,10 +11,6 @@ description: >
   (6) configuring federation, security, file uploads, pagination, or instrumentation in DGS.
 license: MIT
 compatibility: Requires Spring Boot and Java. Uses Maven.
-metadata:
-  author: @roelvandun
-  version: "1.0.0"
-allowed-tools: Read Write Edit Glob Grep
 ---
 
 # Netflix DGS Framework Guide
